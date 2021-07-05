@@ -1,5 +1,5 @@
-#This file defines the data structures which defines the project structure info and it is the first argument of the constructor of class core.ProjectInitiator
-#example: (prefix: d as directory, f as file)
+# This file defines the data structures which defines the project structure info and it is the first argument of the constructor of class core.ProjectInitiator
+# example: (prefix: d as directory, f as file)
     --d:root
         --d:src
             --d:module
@@ -27,4 +27,4 @@
     "(d or f)/path/to/the/file"
     d: directory
     f: file
-    !!!Important: pls do not have extra '/' at the beginning or the end of the path
+### Important: pls do not have extra '/' at the beginning or the end of the path

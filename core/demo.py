@@ -8,3 +8,9 @@ if __name__ == "__main__":
     project_struct = [first_level, second_level, third_level, fourth_level]
     p = ProjectInitiator(project_struct)
     p.initialize_project()
+
+# # demo/test codes for struct_info is List[str]
+# if __name__ == "__main__":
+#     file_paths = ['d/root', 'd/root/src/module', 'd/root/tests/unit_test', 'd/root/tests/func_test', 'd/root/src', 'd/root/tests', 'f/root/src/file1.txt', 'f/root/src/file2', 'd/root/src/file3.py', 'f/root/tests/unit_test/test_file1.py']
+#     p = ProjectInitiator(file_paths)
+#     p.initialize_project()
