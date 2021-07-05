@@ -1,4 +1,4 @@
 #Project Initiator
  ##Author: Jimmy Tan
  ##Version: 0.0.1
- ##description: thos os a simple tool to initial prject file as provided
+ ##description: this is a simple tool to initial project structure as provided
